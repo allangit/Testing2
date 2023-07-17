@@ -8,6 +8,6 @@ import tensorflow
 
 class verificacion
 
-dwewrrewrgrtr
-rewrewrtretret
+ytry
+fdsfdsf
 class modelaje
