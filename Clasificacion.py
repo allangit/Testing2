@@ -5,3 +5,9 @@ from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn.model_selection import cross_val_score,KFold
 from sklearn.preprocessing import LabelEncoder 
 import tensorflow
+
+class verificacion
+
+dwewrrewrgrtr
+rewrewrtretret
+class modelaje
